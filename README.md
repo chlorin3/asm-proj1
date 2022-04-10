@@ -1,5 +1,5 @@
 # asm-proj1
-My assembler mini-projects part 1 (university assignments)
+My assembly language mini-projects part 1 (university assignments)
 
 ## zadanie.asm
 1. Zdefiniuj 4 tablice znakowe o długościach N=9 znaków oraz 1 tablice znakową o długości

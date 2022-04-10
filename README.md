@@ -19,7 +19,6 @@ Uwaga: do jednoczesnego niezależnego indeksowania dwóch tablic używaj rejestr
 długości podstaw równej 8 znakom i wysokości równej 6 liniom – patrz rysunek.
 Kolejne linie tekstu przed wyświetlaniem zakończ znakiem "$".
 Uwaga: do niezależnego podwójnego indeksowania używaj rejestrów BX i SI.
-"
            % % % % % % % %
          % % % % % % % % 
        % % % % % % % % 
@@ -27,4 +26,3 @@ Uwaga: do niezależnego podwójnego indeksowania używaj rejestrów BX i SI.
    % % % % % % % % 
  % % % % % % % %
 
-"

@@ -18,5 +18,5 @@ Uwaga: do jednoczesnego niezależnego indeksowania dwóch tablic używaj rejestr
 2. Korzystając z tablicy oraz jednakowych znaków ASCII (np. '%') narysuj na ekranie równoległobok o 
 długości podstaw równej 8 znakom i wysokości równej 6 liniom – patrz rysunek.
 Kolejne linie tekstu przed wyświetlaniem zakończ znakiem "$".
-Uwaga: do niezależnego podwójnego indeksowania używaj rejestrów BX i SI.
+Uwaga: do niezależnego podwójnego indeksowania używaj rejestrów BX i SI. </br>
 ![image](https://user-images.githubusercontent.com/103357869/162611482-6317704d-8273-4698-9d27-bc76f4cae109.png)
